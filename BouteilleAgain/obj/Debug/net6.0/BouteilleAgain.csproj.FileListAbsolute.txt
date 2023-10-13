@@ -1,0 +1,14 @@
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\BouteilleAgain\bin\Debug\net6.0\BouteilleAgain.exe
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\BouteilleAgain\bin\Debug\net6.0\BouteilleAgain.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\BouteilleAgain\bin\Debug\net6.0\BouteilleAgain.runtimeconfig.json
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\BouteilleAgain\bin\Debug\net6.0\BouteilleAgain.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\BouteilleAgain\bin\Debug\net6.0\BouteilleAgain.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\BouteilleAgain\obj\Debug\net6.0\BouteilleAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\BouteilleAgain\obj\Debug\net6.0\BouteilleAgain.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\BouteilleAgain\obj\Debug\net6.0\BouteilleAgain.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\BouteilleAgain\obj\Debug\net6.0\BouteilleAgain.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\BouteilleAgain\obj\Debug\net6.0\BouteilleAgain.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\BouteilleAgain\obj\Debug\net6.0\refint\BouteilleAgain.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\BouteilleAgain\obj\Debug\net6.0\BouteilleAgain.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\BouteilleAgain\obj\Debug\net6.0\BouteilleAgain.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\BouteilleAgain\obj\Debug\net6.0\ref\BouteilleAgain.dll

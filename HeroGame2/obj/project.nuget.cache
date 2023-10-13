@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mlocW4N/GO+NbS8kv6kUQ9qqDdsfDWnA75eOM5p4E2deuPYXvcBJkxaf82rO4SSi7j0GVDQ/PCxSuwFFdiGJNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nferrand\\Desktop\\CDA_Ex\\TestUnitaire\\TestUnitaire\\HeroGame2\\HeroGame2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nferrand\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\nferrand\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
+    "C:\\Users\\nferrand\\.nuget\\packages\\moq\\4.20.69\\moq.4.20.69.nupkg.sha512",
+    "C:\\Users\\nferrand\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\nferrand\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\nferrand\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

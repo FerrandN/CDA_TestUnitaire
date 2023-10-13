@@ -1,0 +1,12 @@
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\HeroGameLogic\bin\Debug\net6.0\HeroGameLogic.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\HeroGameLogic\bin\Debug\net6.0\HeroGameLogic.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\HeroGameLogic\bin\Debug\net6.0\HeroGameLogic.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\HeroGameLogic\obj\Debug\net6.0\HeroGameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\HeroGameLogic\obj\Debug\net6.0\HeroGameLogic.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\HeroGameLogic\obj\Debug\net6.0\HeroGameLogic.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\HeroGameLogic\obj\Debug\net6.0\HeroGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\HeroGameLogic\obj\Debug\net6.0\HeroGameLogic.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\HeroGameLogic\obj\Debug\net6.0\refint\HeroGameLogic.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\HeroGameLogic\obj\Debug\net6.0\HeroGameLogic.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\HeroGameLogic\obj\Debug\net6.0\ref\HeroGameLogic.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\HeroGameLogic\obj\Debug\net6.0\HeroGameLogic.csproj.AssemblyReference.cache

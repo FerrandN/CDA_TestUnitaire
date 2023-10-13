@@ -1,0 +1,14 @@
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\Barnabe\BarnabeTestUnitaire\BarnabeTestUnitaire\bin\Debug\net6.0\BarnabeTestUnitaire.exe
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\Barnabe\BarnabeTestUnitaire\BarnabeTestUnitaire\bin\Debug\net6.0\BarnabeTestUnitaire.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\Barnabe\BarnabeTestUnitaire\BarnabeTestUnitaire\bin\Debug\net6.0\BarnabeTestUnitaire.runtimeconfig.json
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\Barnabe\BarnabeTestUnitaire\BarnabeTestUnitaire\bin\Debug\net6.0\BarnabeTestUnitaire.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\Barnabe\BarnabeTestUnitaire\BarnabeTestUnitaire\bin\Debug\net6.0\BarnabeTestUnitaire.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\Barnabe\BarnabeTestUnitaire\BarnabeTestUnitaire\obj\Debug\net6.0\BarnabeTestUnitaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\Barnabe\BarnabeTestUnitaire\BarnabeTestUnitaire\obj\Debug\net6.0\BarnabeTestUnitaire.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\Barnabe\BarnabeTestUnitaire\BarnabeTestUnitaire\obj\Debug\net6.0\BarnabeTestUnitaire.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\Barnabe\BarnabeTestUnitaire\BarnabeTestUnitaire\obj\Debug\net6.0\BarnabeTestUnitaire.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\Barnabe\BarnabeTestUnitaire\BarnabeTestUnitaire\obj\Debug\net6.0\BarnabeTestUnitaire.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\Barnabe\BarnabeTestUnitaire\BarnabeTestUnitaire\obj\Debug\net6.0\refint\BarnabeTestUnitaire.dll
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\Barnabe\BarnabeTestUnitaire\BarnabeTestUnitaire\obj\Debug\net6.0\BarnabeTestUnitaire.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\Barnabe\BarnabeTestUnitaire\BarnabeTestUnitaire\obj\Debug\net6.0\BarnabeTestUnitaire.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\CDA_Ex\TestUnitaire\TestUnitaire\Barnabe\BarnabeTestUnitaire\BarnabeTestUnitaire\obj\Debug\net6.0\ref\BarnabeTestUnitaire.dll
